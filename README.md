@@ -1,2 +1,2 @@
-# Multi-Fog-Dataset
-Several CX-R images were carefully selected from different sources to create a relatively large-‎scale COVID-19 CX-R image dataset of confirmed infected cases. This dataset was named as COVID19-vs-Normal and then mixed with some CX-R images of normal cases for a reliable diagnosis of COVID-19 virus. The sources of the COVID19-vs-Normal dataset are as follows
+# Multi-Fog-Dataset(MFD)
+Several foggy images that were carefully selected from seven publically datasets to create a dataset called Multi-Fog-Dataset (MFD). Basically, foggy images divided into two types fog density level and fog type images, respectively. Multi-Fog-Dataset belong to fog type images that divided into four main scenes namely, homogenous, inhomogeneous, dark, and sky foggy scene.
